@@ -1,0 +1,13 @@
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\bin\Release\MockerUi.exe.config
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\bin\Release\MockerUi.exe
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\bin\Release\MockerUi.pdb
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\bin\Release\MaterialSkin.dll
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\bin\Release\MetroFramework.Design.dll
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\bin\Release\MetroFramework.dll
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\bin\Release\MetroFramework.Fonts.dll
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\obj\Release\MockerUi.Configuration.resources
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\obj\Release\MockerUi.Properties.Resources.resources
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\obj\Release\MockerUi.csproj.GenerateResource.Cache
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\obj\Release\MockerUi.exe
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\obj\Release\MockerUi.pdb
+I:\Visual Studio 2017\Projects\MockerUi\MockerUi\obj\Release\MockerUi.csprojResolveAssemblyReference.cache
